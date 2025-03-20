@@ -1,0 +1,89 @@
+# i3-control
+super + shift + {c,r,e}
+  {\
+  i3-msg reload,\
+  i3-msg restart,\
+  i3-msg exit}
+
+super + shift + q
+  i3-msg kill
+
+# Move container to workspace
+super + shift + {F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12}
+  i3-msg move container to workspace number {1,2,3,4,11,12,13,14,21,22,23,24}
+
+# Move to workspace
+super + {F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12}
+  i3-msg  workspace number {1,2,3,4,11,12,13,14,21,22,23,24}
+
+# Move container to workspace and then switch to workspace
+super + shift + ctrl + {F1,F2,F3,F4,F5,F6,F7,F8,F9,F10,F11,F12}
+  i3-msg move container to workspace number {1,2,3,4,11,12,13,14,21,22,23,24}; i3-msg workspace number {1,2,3,4,11,12,13,14,21,22,23,24}
+
+# Resize containers
+super + alt {h,j,k,l,Left,Down,Up,Right}
+  {i3-msg resize shrink width 10 px or 10 ppt,\
+  i3-msg resize grow height 10 px or 10 ppt,\
+  i3-msg resize shrink height 10 px or 10 ppt,\
+  i3-msg resize grow width 10 px or 10 ppt,\
+  i3-msg resize shrink width 10 px or 10 ppt,\
+  i3-msg resize grow height 10 px or 10 ppt,\
+  i3-msg resize shrink height 10 px or 10 ppt,\
+  i3-msg resize grow width 10 px or 10 ppt}
+
+# Focus windows
+super + {Left,Right,Down,Up,j,k,l,semicolon}
+  {\
+  i3-msg focus left,\
+  i3-msg focus right,\
+  i3-msg focus down,\
+  i3-msg focus up,\
+  i3-msg focus left,\
+  i3-msg focus down,\
+  i3-msg focus up,\
+  i3-msg focus right}
+
+# Move windows
+super + shift + {Left,Right,Down,Up,j,k,l,semicolon}
+  {\
+  i3-msg move left,\
+  i3-msg move right,\
+  i3-msg move down,\
+  i3-msg move up,\
+  i3-msg move left,\
+  i3-msg move down,\
+  i3-msg move up,\
+  i3-msg move right}
+
+# Splits
+super + {h,v}
+  {\
+  i3-msg split h,\
+  i3-msg split v}
+
+# Tiling Modes
+super + {f,s,w,e,space}
+  {\
+  i3-msg fullscreen toggle,\
+  i3-msg layout stacked,\
+  i3-msg layout tabbed,\
+  i3-msg layout toggle split,\
+  }
+
+# Floating mode
+super + shift + space 
+  i3-msg floating toggle
+
+# Focus modes
+super + {space,a,z}
+  {\
+  i3-msg focus mode_toggle,\
+  i3-msg focus parent,\
+  i3-msg focus child}
+
+
+# Toggle gaps
+super + g
+  i3-msg gaps inner current toggle 20
+
+

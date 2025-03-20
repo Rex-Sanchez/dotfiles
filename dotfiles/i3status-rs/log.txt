@@ -1,0 +1,3948 @@
+starting programm
+starting event listner
+[
+
+error converting to json
+[
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2694,"y":1074,"relative_x":69,"relative_y":13,"output_x":1614,"output_y":1074,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2673,"y":1073,"relative_x":48,"relative_y":12,"output_x":1593,"output_y":1073,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2673,"y":1073,"relative_x":48,"relative_y":12,"output_x":1593,"output_y":1073,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2698,"y":1071,"relative_x":73,"relative_y":10,"output_x":1618,"output_y":1071,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2698,"y":1071,"relative_x":73,"relative_y":10,"output_x":1618,"output_y":1071,"width":144,"height":19}
+
+starting event listner
+,{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2483,"y":1074,"relative_x":82,"relative_y":13,"output_x":1403,"output_y":1074,"width":198,"height":19}
+
+error converting to json
+,{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2483,"y":1074,"relative_x":82,"relative_y":13,"output_x":1403,"output_y":1074,"width":198,"height":19}
+
+starting event listner
+starting programm
+starting event listner
+starting programm
+starting event listner
+starting event listner
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2677,"y":1070,"relative_x":52,"relative_y":9,"output_x":1597,"output_y":1070,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2677,"y":1070,"relative_x":52,"relative_y":9,"output_x":1597,"output_y":1070,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2678,"y":1070,"relative_x":53,"relative_y":9,"output_x":1598,"output_y":1070,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2678,"y":1070,"relative_x":53,"relative_y":9,"output_x":1598,"output_y":1070,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2678,"y":1070,"relative_x":53,"relative_y":9,"output_x":1598,"output_y":1070,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2678,"y":1070,"relative_x":53,"relative_y":9,"output_x":1598,"output_y":1070,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2678,"y":1070,"relative_x":53,"relative_y":9,"output_x":1598,"output_y":1070,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2678,"y":1070,"relative_x":53,"relative_y":9,"output_x":1598,"output_y":1070,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2678,"y":1070,"relative_x":53,"relative_y":9,"output_x":1598,"output_y":1070,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2678,"y":1070,"relative_x":53,"relative_y":9,"output_x":1598,"output_y":1070,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":3,"modifiers":["Mod2"],"x":2677,"y":1072,"relative_x":52,"relative_y":11,"output_x":1597,"output_y":1072,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":3,"modifiers":["Mod2"],"x":2677,"y":1072,"relative_x":52,"relative_y":11,"output_x":1597,"output_y":1072,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":3,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":3,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":3,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":3,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":3,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":3,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":3,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":3,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":3,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":3,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2675,"y":1071,"relative_x":50,"relative_y":10,"output_x":1595,"output_y":1071,"width":144,"height":19}
+
+starting event listner
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Shift","Mod2"],"x":2676,"y":1075,"relative_x":51,"relative_y":14,"output_x":1596,"output_y":1075,"width":144,"height":19}
+
+error converting to json
+,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Shift","Mod2"],"x":2676,"y":1075,"relative_x":51,"relative_y":14,"output_x":1596,"output_y":1075,"width":144,"height":19}
+
+starting event listner
+starting programm
+starting event listner
+starting programm
+starting event listner
+starting event listner
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2668,"y":1074,"relative_x":43,"relative_y":13,"output_x":1588,"output_y":1074,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2641,"y":1071,"relative_x":16,"relative_y":10,"output_x":1561,"output_y":1071,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2641,"y":1071,"relative_x":16,"relative_y":10,"output_x":1561,"output_y":1071,"width":144,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2553,"y":1069,"relative_x":152,"relative_y":8,"output_x":1473,"output_y":1069,"width":198,"height":19}
+
+starting event listner
+{"name":"Date time","instance":"1","button":1,"modifiers":["Mod2"],"x":2823,"y":1074,"relative_x":28,"relative_y":13,"output_x":1743,"output_y":1074,"width":114,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2661,"y":1073,"relative_x":36,"relative_y":12,"output_x":1581,"output_y":1073,"width":144,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2548,"y":1071,"relative_x":147,"relative_y":10,"output_x":1468,"output_y":1071,"width":198,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2658,"y":1071,"relative_x":33,"relative_y":10,"output_x":1578,"output_y":1071,"width":144,"height":19}
+
+starting event listner
+{"name":"Date time","instance":"1","button":1,"modifiers":["Mod2"],"x":2815,"y":1071,"relative_x":20,"relative_y":10,"output_x":1735,"output_y":1071,"width":114,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2689,"y":1070,"relative_x":64,"relative_y":9,"output_x":1609,"output_y":1070,"width":144,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2517,"y":1070,"relative_x":116,"relative_y":9,"output_x":1437,"output_y":1070,"width":198,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2634,"y":1070,"relative_x":9,"relative_y":9,"output_x":1554,"output_y":1070,"width":144,"height":19}
+
+starting event listner
+{"name":"Date time","instance":"1","button":1,"modifiers":["Mod2"],"x":2798,"y":1070,"relative_x":3,"relative_y":9,"output_x":1718,"output_y":1070,"width":114,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2544,"y":1069,"relative_x":143,"relative_y":8,"output_x":1464,"output_y":1069,"width":198,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2696,"y":1069,"relative_x":71,"relative_y":8,"output_x":1616,"output_y":1069,"width":144,"height":19}
+
+starting event listner
+{"name":"Date time","instance":"1","button":1,"modifiers":["Mod2"],"x":2827,"y":1069,"relative_x":32,"relative_y":8,"output_x":1747,"output_y":1069,"width":114,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2723,"y":1069,"relative_x":98,"relative_y":8,"output_x":1643,"output_y":1069,"width":144,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2568,"y":1068,"relative_x":167,"relative_y":7,"output_x":1488,"output_y":1068,"width":198,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2691,"y":1068,"relative_x":66,"relative_y":7,"output_x":1611,"output_y":1068,"width":144,"height":19}
+
+starting event listner
+{"name":"Date time","instance":"1","button":1,"modifiers":["Mod2"],"x":2812,"y":1067,"relative_x":17,"relative_y":6,"output_x":1732,"output_y":1067,"width":114,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2678,"y":1066,"relative_x":53,"relative_y":5,"output_x":1598,"output_y":1066,"width":144,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2555,"y":1066,"relative_x":154,"relative_y":5,"output_x":1475,"output_y":1066,"width":198,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2713,"y":1067,"relative_x":88,"relative_y":6,"output_x":1633,"output_y":1067,"width":144,"height":19}
+
+starting event listner
+{"name":"Date time","instance":"1","button":1,"modifiers":["Mod2"],"x":2848,"y":1067,"relative_x":53,"relative_y":6,"output_x":1768,"output_y":1067,"width":114,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2501,"y":1065,"relative_x":100,"relative_y":4,"output_x":1421,"output_y":1065,"width":198,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2650,"y":1073,"relative_x":25,"relative_y":12,"output_x":1570,"output_y":1073,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":5,"modifiers":["Mod2"],"x":2655,"y":1079,"relative_x":30,"relative_y":18,"output_x":1575,"output_y":1079,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":5,"modifiers":["Mod2"],"x":2652,"y":1079,"relative_x":27,"relative_y":18,"output_x":1572,"output_y":1079,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":5,"modifiers":["Mod2"],"x":2651,"y":1079,"relative_x":26,"relative_y":18,"output_x":1571,"output_y":1079,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":5,"modifiers":["Mod2"],"x":2651,"y":1079,"relative_x":26,"relative_y":18,"output_x":1571,"output_y":1079,"width":144,"height":19}
+
+starting event listner
+starting programm
+starting event listner
+starting event listner
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2681,"y":1072,"relative_x":56,"relative_y":11,"output_x":1601,"output_y":1072,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2679,"y":1067,"relative_x":54,"relative_y":6,"output_x":1599,"output_y":1067,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2677,"y":1067,"relative_x":52,"relative_y":6,"output_x":1597,"output_y":1067,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2677,"y":1067,"relative_x":52,"relative_y":6,"output_x":1597,"output_y":1067,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2677,"y":1067,"relative_x":52,"relative_y":6,"output_x":1597,"output_y":1067,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2677,"y":1067,"relative_x":52,"relative_y":6,"output_x":1597,"output_y":1067,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2677,"y":1067,"relative_x":52,"relative_y":6,"output_x":1597,"output_y":1067,"width":144,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2677,"y":1067,"relative_x":52,"relative_y":6,"output_x":1597,"output_y":1067,"width":144,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2549,"y":1068,"relative_x":148,"relative_y":7,"output_x":1469,"output_y":1068,"width":198,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2549,"y":1068,"relative_x":148,"relative_y":7,"output_x":1469,"output_y":1068,"width":198,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2549,"y":1068,"relative_x":148,"relative_y":7,"output_x":1469,"output_y":1068,"width":198,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2549,"y":1068,"relative_x":148,"relative_y":7,"output_x":1469,"output_y":1068,"width":198,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2549,"y":1068,"relative_x":148,"relative_y":7,"output_x":1469,"output_y":1068,"width":198,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2549,"y":1068,"relative_x":148,"relative_y":7,"output_x":1469,"output_y":1068,"width":198,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2549,"y":1068,"relative_x":148,"relative_y":7,"output_x":1469,"output_y":1068,"width":198,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2549,"y":1068,"relative_x":148,"relative_y":7,"output_x":1469,"output_y":1068,"width":198,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2506,"y":1065,"relative_x":105,"relative_y":4,"output_x":1426,"output_y":1065,"width":198,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2662,"y":1067,"relative_x":37,"relative_y":6,"output_x":1582,"output_y":1067,"width":144,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2535,"y":1066,"relative_x":134,"relative_y":5,"output_x":1455,"output_y":1066,"width":198,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2675,"y":1067,"relative_x":50,"relative_y":6,"output_x":1595,"output_y":1067,"width":144,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2536,"y":1067,"relative_x":135,"relative_y":6,"output_x":1456,"output_y":1067,"width":198,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2660,"y":1068,"relative_x":35,"relative_y":7,"output_x":1580,"output_y":1068,"width":144,"height":19}
+
+starting event listner
+{"name":"Network Device","instance":"enp3s0","button":1,"modifiers":["Mod2"],"x":2524,"y":1068,"relative_x":123,"relative_y":7,"output_x":1444,"output_y":1068,"width":198,"height":19}
+
+starting event listner
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2680,"y":1068,"relative_x":55,"relative_y":7,"output_x":1600,"output_y":1068,"width":144,"height":19}
+
+starting event listner
+starting programm
+starting event listner
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2668,
+    y: 1070,
+    relative_x: 43,
+    relative_y: 9,
+    output_x: 1588,
+    output_y: 1070,
+    width: 144,
+    height: 19,
+}
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2668,
+    y: 1070,
+    relative_x: 43,
+    relative_y: 9,
+    output_x: 1588,
+    output_y: 1070,
+    width: 144,
+    height: 19,
+}
+None
+None
+None
+None
+None
+None
+None
+sending over channel: Event {
+    name: "Network Device",
+    instance: "enp3s0",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2560,
+    y: 1074,
+    relative_x: 159,
+    relative_y: 13,
+    output_x: 1480,
+    output_y: 1074,
+    width: 198,
+    height: 19,
+}
+None
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2695,
+    y: 1074,
+    relative_x: 70,
+    relative_y: 13,
+    output_x: 1615,
+    output_y: 1074,
+    width: 144,
+    height: 19,
+}
+sending over channel: Event {
+    name: "Date time",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2854,
+    y: 1074,
+    relative_x: 59,
+    relative_y: 13,
+    output_x: 1774,
+    output_y: 1074,
+    width: 114,
+    height: 19,
+}
+None
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2713,
+    y: 1075,
+    relative_x: 88,
+    relative_y: 14,
+    output_x: 1633,
+    output_y: 1075,
+    width: 144,
+    height: 19,
+}
+sending over channel: Event {
+    name: "Network Device",
+    instance: "enp3s0",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2555,
+    y: 1075,
+    relative_x: 154,
+    relative_y: 14,
+    output_x: 1475,
+    output_y: 1075,
+    width: 198,
+    height: 19,
+}
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2666,
+    y: 1077,
+    relative_x: 41,
+    relative_y: 16,
+    output_x: 1586,
+    output_y: 1077,
+    width: 144,
+    height: 19,
+}
+None
+sending over channel: Event {
+    name: "Date time",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2835,
+    y: 1074,
+    relative_x: 40,
+    relative_y: 13,
+    output_x: 1755,
+    output_y: 1074,
+    width: 114,
+    height: 19,
+}
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2711,
+    y: 1074,
+    relative_x: 86,
+    relative_y: 13,
+    output_x: 1631,
+    output_y: 1074,
+    width: 144,
+    height: 19,
+}
+None
+sending over channel: Event {
+    name: "Network Device",
+    instance: "enp3s0",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2521,
+    y: 1074,
+    relative_x: 120,
+    relative_y: 13,
+    output_x: 1441,
+    output_y: 1074,
+    width: 198,
+    height: 19,
+}
+None
+None
+None
+None
+None
+None
+None
+None
+None
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2695,
+    y: 1065,
+    relative_x: 70,
+    relative_y: 4,
+    output_x: 1615,
+    output_y: 1065,
+    width: 144,
+    height: 19,
+}
+None
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2695,
+    y: 1065,
+    relative_x: 70,
+    relative_y: 4,
+    output_x: 1615,
+    output_y: 1065,
+    width: 144,
+    height: 19,
+}
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+message: [
+
+message: {"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2661,"y":1071,"relative_x":36,"relative_y":10,"output_x":1581,"output_y":1071,"width":144,"height":19}
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+message: ,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2678,"y":1070,"relative_x":53,"relative_y":9,"output_x":1598,"output_y":1070,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2678,
+    y: 1070,
+    relative_x: 53,
+    relative_y: 9,
+    output_x: 1598,
+    output_y: 1070,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2678,
+        y: 1070,
+        relative_x: 53,
+        relative_y: 9,
+        output_x: 1598,
+        output_y: 1070,
+        width: 144,
+        height: 19,
+    },
+)
+getting here in to ram pluggin
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+message: ,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2639,"y":1072,"relative_x":14,"relative_y":11,"output_x":1559,"output_y":1072,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2639,
+    y: 1072,
+    relative_x: 14,
+    relative_y: 11,
+    output_x: 1559,
+    output_y: 1072,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2639,
+        y: 1072,
+        relative_x: 14,
+        relative_y: 11,
+        output_x: 1559,
+        output_y: 1072,
+        width: 144,
+        height: 19,
+    },
+)
+getting here in to ram pluggin
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+message: [
+
+message: {"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2659,"y":1069,"relative_x":34,"relative_y":8,"output_x":1579,"output_y":1069,"width":144,"height":19}
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+message: ,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2675,"y":1073,"relative_x":50,"relative_y":12,"output_x":1595,"output_y":1073,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2675,
+    y: 1073,
+    relative_x: 50,
+    relative_y: 12,
+    output_x: 1595,
+    output_y: 1073,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2675,
+        y: 1073,
+        relative_x: 50,
+        relative_y: 12,
+        output_x: 1595,
+        output_y: 1073,
+        width: 144,
+        height: 19,
+    },
+)
+getting here in to ram pluggin
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+message: [
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2679,"y":1069,"relative_x":54,"relative_y":8,"output_x":1599,"output_y":1069,"width":144,"height":19}
+
+None
+None
+message: ,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2679,"y":1069,"relative_x":54,"relative_y":8,"output_x":1599,"output_y":1069,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2679,
+    y: 1069,
+    relative_x: 54,
+    relative_y: 8,
+    output_x: 1599,
+    output_y: 1069,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2679,
+        y: 1069,
+        relative_x: 54,
+        relative_y: 8,
+        output_x: 1599,
+        output_y: 1069,
+        width: 144,
+        height: 19,
+    },
+)
+getting here in to ram pluggin
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+message: [
+{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2678,"y":1076,"relative_x":53,"relative_y":15,"output_x":1598,"output_y":1076,"width":144,"height":19}
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+message: 
+message: {"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2652,"y":1068,"relative_x":27,"relative_y":7,"output_x":1572,"output_y":1068,"width":144,"height":19}
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+message: ,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2661,"y":1072,"relative_x":36,"relative_y":11,"output_x":1581,"output_y":1072,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2661,
+    y: 1072,
+    relative_x: 36,
+    relative_y: 11,
+    output_x: 1581,
+    output_y: 1072,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2661,
+        y: 1072,
+        relative_x: 36,
+        relative_y: 11,
+        output_x: 1581,
+        output_y: 1072,
+        width: 144,
+        height: 19,
+    },
+)
+getting here in to ram pluggin
+None
+starting programm
+starting event listner
+None
+None
+message: 
+message: {"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2661,"y":1071,"relative_x":36,"relative_y":10,"output_x":1581,"output_y":1071,"width":144,"height":19}
+
+None
+message: ,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2661,"y":1071,"relative_x":36,"relative_y":10,"output_x":1581,"output_y":1071,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2661,
+    y: 1071,
+    relative_x: 36,
+    relative_y: 10,
+    output_x: 1581,
+    output_y: 1071,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2661,
+        y: 1071,
+        relative_x: 36,
+        relative_y: 10,
+        output_x: 1581,
+        output_y: 1071,
+        width: 144,
+        height: 19,
+    },
+)
+getting here in to ram pluggin
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+message: {"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2661,"y":1073,"relative_x":36,"relative_y":12,"output_x":1581,"output_y":1073,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2661,
+    y: 1073,
+    relative_x: 36,
+    relative_y: 12,
+    output_x: 1581,
+    output_y: 1073,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2661,
+        y: 1073,
+        relative_x: 36,
+        relative_y: 12,
+        output_x: 1581,
+        output_y: 1073,
+        width: 144,
+        height: 19,
+    },
+)
+getting here in to ram pluggin
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+message: {"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2673,"y":1070,"relative_x":48,"relative_y":9,"output_x":1593,"output_y":1070,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2673,
+    y: 1070,
+    relative_x: 48,
+    relative_y: 9,
+    output_x: 1593,
+    output_y: 1070,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2673,
+        y: 1070,
+        relative_x: 48,
+        relative_y: 9,
+        output_x: 1593,
+        output_y: 1070,
+        width: 144,
+        height: 19,
+    },
+)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+message: ,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2684,"y":1072,"relative_x":59,"relative_y":11,"output_x":1604,"output_y":1072,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2684,
+    y: 1072,
+    relative_x: 59,
+    relative_y: 11,
+    output_x: 1604,
+    output_y: 1072,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2684,
+        y: 1072,
+        relative_x: 59,
+        relative_y: 11,
+        output_x: 1604,
+        output_y: 1072,
+        width: 144,
+        height: 19,
+    },
+)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+message: {"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2670,"y":1073,"relative_x":45,"relative_y":12,"output_x":1590,"output_y":1073,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2670,
+    y: 1073,
+    relative_x: 45,
+    relative_y: 12,
+    output_x: 1590,
+    output_y: 1073,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2670,
+        y: 1073,
+        relative_x: 45,
+        relative_y: 12,
+        output_x: 1590,
+        output_y: 1073,
+        width: 144,
+        height: 19,
+    },
+)
+None
+None
+None
+None
+None
+None
+None
+message: ,{"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2681,"y":1070,"relative_x":56,"relative_y":9,"output_x":1601,"output_y":1070,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2681,
+    y: 1070,
+    relative_x: 56,
+    relative_y: 9,
+    output_x: 1601,
+    output_y: 1070,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2681,
+        y: 1070,
+        relative_x: 56,
+        relative_y: 9,
+        output_x: 1601,
+        output_y: 1070,
+        width: 144,
+        height: 19,
+    },
+)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+message: {"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2677,"y":1076,"relative_x":52,"relative_y":15,"output_x":1597,"output_y":1076,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2677,
+    y: 1076,
+    relative_x: 52,
+    relative_y: 15,
+    output_x: 1597,
+    output_y: 1076,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2677,
+        y: 1076,
+        relative_x: 52,
+        relative_y: 15,
+        output_x: 1597,
+        output_y: 1076,
+        width: 144,
+        height: 19,
+    },
+)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+message: {"name":"Ram Indicator","instance":"1","button":1,"modifiers":["Mod2"],"x":2660,"y":1073,"relative_x":35,"relative_y":12,"output_x":1580,"output_y":1073,"width":144,"height":19}
+
+sending over channel: Event {
+    name: "Ram Indicator",
+    instance: "1",
+    button: 1,
+    modifiers: [
+        "Mod2",
+    ],
+    x: 2660,
+    y: 1073,
+    relative_x: 35,
+    relative_y: 12,
+    output_x: 1580,
+    output_y: 1073,
+    width: 144,
+    height: 19,
+}
+message received
+Some(
+    Event {
+        name: "Ram Indicator",
+        instance: "1",
+        button: 1,
+        modifiers: [
+            "Mod2",
+        ],
+        x: 2660,
+        y: 1073,
+        relative_x: 35,
+        relative_y: 12,
+        output_x: 1580,
+        output_y: 1073,
+        width: 144,
+        height: 19,
+    },
+)
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+starting programm
+starting event listner
+starting programm
+starting event listner
+starting programm
+starting event listner
+starting programm
+starting event listner
+starting programm
+starting event listner
+starting programm
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+                       starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner
+starting event listner

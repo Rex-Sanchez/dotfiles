@@ -1,0 +1,60 @@
+# Applications shortcuts
+super + BackSpace; {b,d,t,f}
+  {$WWW,Discord,telegram-desktop,$FILES}
+
+# rofi drun
+super + d
+  rofi -show drun -show-icons
+
+# rofi run
+super + shift + d 
+  rofi -show run
+
+# rofi calc
+super + 1
+  rofi -show calc
+
+# rofi Select Layout
+super + 2
+  sh "/home/n3m0/Mounts/DATA3/Projecten/software/scripts/layouts.sh"
+
+# rofi tmux sessions
+super + 0
+  sh "/home/n3m0/Mounts/DATA3/Projecten/software/scripts/tmux_sessions.sh"
+
+# rofi open tabs
+super + Tab 
+  rofi -show
+
+# rofi emojis
+super + n
+  rofimoji --action clipboard
+
+# scripts
+super + ctrl + s
+  alacritty -e "/home/n3m0/Mounts/DATA3/Projecten/software/scripts/scriptSelect/run.nu"
+
+# i3 lock 
+super + ctrl + l
+  i3lock -c 31343C
+
+# open terminal
+super + Return
+  alacritty
+
+# open pcmanfm
+super + p
+  pcmanfm
+
+# open i3 config
+super + o
+  alacritty -e nvim ~/.config/i3/config
+
+# open this file
+super + shift + o
+  alacritty -e nvim ~/.config/sxhkd/sxhkdrc
+
+# kill window on click
+super + shift + ctrl + k
+  alacritty -e xkill
+

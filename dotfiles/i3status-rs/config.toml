@@ -1,0 +1,24 @@
+[general]
+refresh_time = 100
+click_events = true
+
+
+[ram_indicator]
+enable = true
+unit = "GB" # KB, MB, GB
+low_memory_alert = "1."
+
+[date_time]
+enable = true
+datetime_string = "%Y-%d-%m %H:%M:%S"
+calender = "calcurse"
+
+[network]
+enable = true
+interface = ["enp3s0"]
+on_click = { cmd = "alacritty" , args = []  }
+
+
+[disk]
+enable = true
+disks = ["/","/home/n3m0/Mounts/DATA1","/home/n3m0/Mounts/DATA2","/home/n3m0/Mounts/DATA3"]

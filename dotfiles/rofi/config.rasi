@@ -1,0 +1,10 @@
+
+//@theme "/usr/share/rofi/themes/DarkBlue.rasi"
+//@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+//@theme "/usr/share/rofi/themes/gruvbox-dark-hard.rasi"
+
+configuration {
+ dpi: 200;
+}
+
+@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
