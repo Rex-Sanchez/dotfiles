@@ -6,7 +6,7 @@ local config = env.CONFIG_DIR
 return {
   {
     name = "alacritty config",
-    src = scr .. "/dotfiles/themes",
+    src = scr .. "/dotfiles/alacritty",
     dest = config .. "/alacritty",
     enable = true,
     force = true
