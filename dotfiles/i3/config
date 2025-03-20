@@ -1,0 +1,89 @@
+# variables
+set $refresh_i3status killall -SIGUSR1 i3status
+set $mod Mod4
+
+# fonts
+font pango:FiraMonoNerdFont 8
+
+# run on cold start
+exec --no-startup-id /usr/lib/notification-daemon-1.0/notification-daemon 
+exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
+exec --no-startup-id nm-applet
+exec --no-startup-id sh ~/.screenlayout/mainlayout.sh
+exec --no-startup-id picom
+exec --no-startup-id nitrogen --restore
+exec --no-startup-id /usr/bin/evolution
+exec --no-startup-id xset r rate 200 25
+
+exec --no-startup-id i3-msg 'workspace 24; exec /usr/bin/firefox https://app.moneymonk.nl'
+exec --no-startup-id i3-msg 'workspace 2; exec com.discordapp.Discord'
+exec --no-startup-id i3-msg 'workspace 1; exec /usr/bin/telegram-desktop'
+exec --no-startup-id i3-msg 'workspace 4; exec /usr/bin/obsidian'
+exec xrandr --dpi 192
+
+# run on hot start
+exec_always --no-startup-id ~/.config/polybar/launch_main.sh
+exec_always --no-startup-id killall sxhkd; sxhkd -c ~/.config/sxhkd/global ~/.config/sxhkd/i3rc
+
+# Options 
+floating_modifier $mod
+workspace_auto_back_and_forth no
+tiling_drag modifier 
+
+# Volume Controle
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
+bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
+bindcode 123 exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +5% && $refresh_i3status
+bindcode 122 exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -5% && $refresh_i3status
+
+# assign programs to specific workspace 
+assign [class="TelegramDesktop"] 1
+assign [class="discord"]  2
+assign [class="Org.gnome.Evolution"] 23
+assign [class="obsidian"] 4
+assign [instance="Devtools"] 3
+assign [class="iced_testing"] 22
+assign [class="slint-lsp"] 22
+
+# set screen variables 
+set $left_screen "DVI-I-1"
+set $center_screen "DP-0"
+set $right_screen "HDMI-0"
+
+# set workspaceses only on screen
+workspace "1" output $left_screen
+workspace "2" output $left_screen
+workspace "3" output $left_screen
+workspace "4" output $left_screen
+
+workspace "11"  output $center_screen
+workspace "12"  output $center_screen
+workspace "13"  output $center_screen
+workspace "14" output $center_screen
+
+workspace "21"  output $right_screen
+workspace "22"  output $right_screen
+workspace "23"  output $right_screen
+workspace "24" output $right_screen
+
+# set primary gruvbox colorscheme colors
+set $bg #282828
+set $red #cc241d
+set $green #98971a
+set $yellow #d79921
+set $blue #458588
+set $purple #b16286
+set $aqua #689d68
+set $gray #a89984
+set $darkgray #1d2021
+set $white #ffffff
+
+# class                 border|backgr|text|indicator|child_border
+client.focused          #F49D1A $blue $darkgray $purple #F49D1A
+client.focused_inactive $darkgray $darkgray $yellow $purple $darkgray
+client.unfocused        #DC3535 $darkgray $yellow $purple $darkgray
+client.urgent           $red $red $white $red $red
+default_border pixel 2
+
+
+
