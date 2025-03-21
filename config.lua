@@ -3,6 +3,13 @@
 local scr = env.SCRIPT_DIR
 local config = env.CONFIG_DIR
 
+
+local fontConfigName = "JiraCode" -- 3270 Nerd Font
+local themeMode = "dark"
+local fontSize = 13
+
+
+
 utils.linker({
   {
     name = "alacritty config",
@@ -75,3 +82,20 @@ utils.linker({
     force = true
   },
 })
+
+
+if fontConfigName == "JiraCode" then
+  utils.setFont("Fira Code Nerd Font", fontSize)
+  utils.setFontMonospcae("Fira Code Nerd Font mono", fontSize)
+elseif fontConfigName == "3270 Nerd Font" then
+  utils.setFont("3270 Nerd Font", fontSize)
+  utils.setFontMonospcae("3270 Nerd Font mono", fontSize)
+end
+
+if themeMode == "dark" then
+  utils.setGtkTheme("Gruvbox-Material-Dark")
+  utils.setIcons("Gruvbox-Material-Dark")
+elseif themeMode == "light" then
+  utils.setGtkTheme("Gruvbox-Material-Light")
+  utils.setIcons("Gruvbox-Material-Light")
+end
