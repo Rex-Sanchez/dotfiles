@@ -3,7 +3,7 @@
 local scr = env.SCRIPT_DIR
 local config = env.CONFIG_DIR
 
-return {
+utils.linker({
   {
     name = "alacritty config",
     src = scr .. "/dotfiles/alacritty",
@@ -74,4 +74,4 @@ return {
     enable = true,
     force = true
   },
-}
+})
