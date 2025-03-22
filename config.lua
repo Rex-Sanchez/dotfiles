@@ -1,12 +1,24 @@
 -- Home manager config
+-- Github git@github.com:Rex-Sanchez/home_manager.git
 
-local toBool = function(str)
+
+
+-- ENV 
+--
+-- HM_FORCE   default true
+-- HM_LINK    default true
+-- HM_DEVICE  default dektop
+
+
+
+
+local toMaybeBool = function(str)
   if str == "true" then
     return true
   elseif str == "false" then
     return false
   end
-  return true
+  return nil
 end
 
 
@@ -19,17 +31,24 @@ end
 
 
 
-local force = toBool(os.getenv("FORCE_LINKER"))
-local link = toBool(os.getenv("LINK"))
 
 local scr = env.SCRIPT_DIR
 local config = env.CONFIG_DIR
 
-local device = os.getenv("DEVICE") or "desktop"
+local force = toMaybeBool(os.getenv("HM_FORCE")) or true
+local link = toMaybeBool(os.getenv("HM_LINK")) or true
+local device = os.getenv("HM_DEVICE") or "desktop"
 
-local fontConfigName = "JiraCode"     -- 3270 Nerd Font
-local themeMode = "grubox-dark-HIDPI" -- light, sweet, sweet-dark
+local fontConfigs = {
+  "JiraCode",
+  "3270 Nerd Font"
+}
+
+local fontConfigName = fontConfigs[1]
+
 local fontSize = 13
+
+local themeMode = "grubox-dark-HIDPI" -- light, sweet, sweet-dark
 
 
 if link then
