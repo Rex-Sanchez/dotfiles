@@ -3,11 +3,20 @@
 local scr = env.SCRIPT_DIR
 local config = env.CONFIG_DIR
 
+local device = os.getenv("DEVICE") or "desktop"
 
 local fontConfigName = "JiraCode" -- 3270 Nerd Font
-local themeMode = "dark"
+local themeMode = "grubox-dark-HIDPI" -- light, sweet, sweet-dark
 local fontSize = 13
 
+
+
+local isEq = function(a,b)
+  if (a == b) then
+    return true
+  end
+  return false
+end
 
 
 utils.linker({
@@ -19,10 +28,17 @@ utils.linker({
     force = true
   },
   {
-    name = "i3 config",
-    src = scr .. "/dotfiles/i3",
+    name = "i3 desktop config",
+    src = scr .. "/dotfiles/i3_desktop",
     dest = config .. "/i3",
-    enable = true,
+    enable = isEq(device, "desktop"),
+    force = true
+  },
+  {
+    name = "i3 laptop config",
+    src = scr .. "/dotfiles/i3_laptop",
+    dest = config .. "/i3",
+    enable = isEq(device, "laptop"),
     force = true
   },
   {
@@ -84,18 +100,30 @@ utils.linker({
 })
 
 
+-- Setting Fonts
+
 if fontConfigName == "JiraCode" then
   utils.setFont("Fira Code Nerd Font", fontSize)
-  utils.setFontMonospcae("Fira Code Nerd Font mono", fontSize)
+  utils.setFontMonospace("Fira Code Nerd Font Mono", fontSize)
+
 elseif fontConfigName == "3270 Nerd Font" then
   utils.setFont("3270 Nerd Font", fontSize)
-  utils.setFontMonospcae("3270 Nerd Font mono", fontSize)
+  utils.setFontMonospcae("3270 Nerd Font Mono", fontSize)
 end
 
-if themeMode == "dark" then
-  utils.setGtkTheme("Gruvbox-Material-Dark")
+
+
+-- Setting theme stuff
+
+if themeMode == "grubox-dark-HIDPI" then
+  utils.setGtkTheme("Gruvbox-Material-Dark-HIDPI")
   utils.setIcons("Gruvbox-Material-Dark")
+
 elseif themeMode == "light" then
   utils.setGtkTheme("Gruvbox-Material-Light")
   utils.setIcons("Gruvbox-Material-Light")
+
+elseif themeMode == "sweet-dark" then
+  utils.setGtkTheme("Sweet-Dark")
+  utils.setIcons("Sweet-purple")
 end
